@@ -1,0 +1,172 @@
+body{
+    background-image: url(https://images.ctfassets.net/3s5io6mnxfqz/2VtFUClI3wRtuSmNSS9iyB/05cc49483d7baa90aca03aecdc05037a/AdobeStock_280212690.jpeg?fm=jpg&w=1200&fl=progressive) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+
+.SHEETS{
+   margin-left: 10em;
+}
+
+.body-port{
+    margin-top: 2em;
+    margin-left: 12em;
+    height: 80em;
+    width: 70em;
+    background-color: #ffffffb2;
+    box-shadow: 30px 30px 90px rgba(0, 0, 0, 0.726);
+    border-radius: 5em;
+    margin-bottom: 10em;
+}
+
+#profile-back{
+    margin-left: 18em;
+    margin-top: -86.5em;
+    height: 7em;
+    width: 7em;
+    border: solid;
+    border-width: 0.5px;
+    border-radius: 50%;
+}
+
+
+
+
+.profile-img{
+    margin-left: 6.8em;
+    margin-top: 4.4em;
+    height: 5.5em;
+    width: 5.5em;
+    border-radius: 50%;  
+    object-fit: cover;
+     
+}
+
+#name{
+    font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 4em;
+}  
+#job{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 8.8em;
+    margin-top: -1em;
+    font-size: 0.7em;
+    color: rgba(0, 0, 0, 0.527);
+}
+
+.top-left{
+    float: left;
+}
+.top-right{
+    float: right;
+}
+
+#arus-logo{
+    height: 5em;
+    margin-top: 5em;
+    margin-left: -15em;
+}
+
+.objective{
+    clear: both;
+    margin-left: 5em;
+}
+
+#obj-det{
+    margin-left: em;
+}
+
+.PROJECTS{
+    font-size: 1em;
+    margin-left: 6em;
+    float: left;
+    width: 50%;
+    justify-content: center;
+}
+.recent{
+    margin-left: 42em;
+   
+}
+.skill-set{
+    margin-left: 40em;
+    font-size: 0.8em;
+}
+
+.vertical-line{
+    height: 50em;
+    width: 1px;
+    background-color: rgb(36, 33, 33);
+    margin-left:48em;
+    margin-top: 14em;
+}
+.EDUCATION{
+    clear: both;
+    float: left;
+}
+
+.details{
+    margin-left: 6em;
+    margin-top: 3em;
+    width: 30em;
+    justify-content: center;
+}
+#internship-details{
+    margin-left: 38em;
+}
+
+.personal-Det  table,td{
+    margin-top: -1em;
+    margin-left: 4em;
+    font-size: 1em;
+    border: 1px solid;
+    width: 70%;
+    border-collapse: collapse;
+}
+
+.second-SHEET{
+    clear: both;
+    margin-top: 15em;
+    height: 80em;
+    width: 70em;
+    background-color: #ffffffb2;
+    box-shadow: 30px 30px 90px rgba(0, 0, 0, 0.726);
+    border-radius: 5em;
+    margin-bottom: 10em;
+}
+
+.training-PROJ{
+    margin-left: 3em;
+    margin-top: 10em;
+}
+
+.logo-only{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+}
+.Last-Section{
+    margin-top: 10em;
+    text-align: center;
+}
+.vertical-line2{
+    height: 18em;
+    width: 1px;
+    background-color: rgba(19, 19, 19, 0.489);
+    margin-left:48em;
+    margin-top: 52em;
+}
+
+.CONTACT{
+    float: right;
+    margin-top: -9.6em;
+    margin-right: 4em;
+}
+
+.vector{
+    height: 17em;
+    margin-left: 24em;
+    opacity: 0.4;
+}
